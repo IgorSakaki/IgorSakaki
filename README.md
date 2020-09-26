@@ -10,7 +10,7 @@
     I'm Igor Sakaki,<br/>
     I'm here to share knowledge and technology<br/>
     I have experience in several areas of computing,<br/>
-    and keep looking for knowledge!<br/><br/>👽
+    and keep looking for more and more knowledge!<br/><br/>👽
     <br/>
     <br/>
     my focus is and has always been solving problems...<br/>
