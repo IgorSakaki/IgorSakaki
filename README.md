@@ -17,19 +17,19 @@
   </samp>
 </p>
 <p align="center">
-  <img width="35" height="35" title="Linux" alt="linux" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"/>
-  <img width="35" height="35" title="Java" alt="Java" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg"/>
-  <img width="35" height="35" title="Php" alt="Php" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"/> 
-  <img width="35" height="35" title="Python" alt="Python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"/>
-  <img width="35" height="35" title="Javascript" alt="Javascript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"/>
-  <img width="35" height="35" title="Nodejs" alt="Nodejs" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg"/>
+  <img width="35" height="35" title="Linux" alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
+  <img width="35" height="35" title="Java" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+  <img width="35" height="35" title="Php" alt="Php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/> 
+  <img width="35" height="35" title="Python" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <img width="35" height="35" title="Javascript" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img width="35" height="35" title="Nodejs" alt="Nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
   <br/>
-  <img width="35" height="35" title="Git" alt="Git" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg"/>
-  <img width="35" height="35" title="Docker" alt="docker" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg"/>
-  <img width="35" height="35" title="Vuejs" alt="vuejs" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg"/>
-  <img width="35" height="35" title="Oracle" alt="oracle" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg"/>
-  <img width="35" height="35" title="Mysql" alt="mysql" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg"/>
-  <img width="35" height="35" title="Mongodb" alt="mongodb" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg"/>
+  <img width="35" height="35" title="Docker" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+  <img width="35" height="35" title="Vuejs" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>
+  <img width="35" height="35" title="Oracle" alt="oracle" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"/>
+  <img width="35" height="35" title="Postgres" alt="postgres" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
+  <img width="35" height="35" title="Mysql" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+  <img width="35" height="35" title="Mongodb" alt="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igorsakaki&show_icons=true" alt="igorsakaki"/>
