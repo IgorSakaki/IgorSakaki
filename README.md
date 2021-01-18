@@ -35,6 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=igorsakaki&show_icons=true" alt="igorsakaki"/>
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsakaki&layout=compact&show_icons=true&theme=dracula" alt="Igor Sakaki's top languages" />
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/igor-sakaki/" target="blank" style="border-left: 50px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="35" width="35"/></a>
   <a href="https://stackoverflow.com/users/14346319/igor-sakaki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stackoverflow" height="35" width="35"/></a>
   <a href="https://medium.com/@igorsakaki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/medium.svg" alt="Medium" height="35" width="35" /></a>
